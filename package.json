@@ -1,0 +1,25 @@
+{
+  "name": "vuejs-with-vite",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@coinbase/onchainkit": "^0.36.0",
+    "@coinbase/wallet-sdk": "^4.2.4",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "ethers": "^6.13.4",
+    "express": "^4.21.2",
+    "pinia": "^2.3.0",
+    "viem": "^2.21.54",
+    "wagmi": "^2.14.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.5.1"
+  }
+}

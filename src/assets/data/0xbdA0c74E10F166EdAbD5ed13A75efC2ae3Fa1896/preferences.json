@@ -1,0 +1,26 @@
+[
+  {
+    "UserChosen": [
+      {"name": "Groceries", "color": "#5cb85c"},
+      {"name": "Clothing", "color": "#f0ad4e"},
+      {"name": "Transportation", "color": "#5bc0de"},
+      {"name": "Eating Out", "color": "#d9534f"},
+      {"name": "Home", "color": "#428bca"},
+      {"name": "Other", "color": "#999999"},
+      {"name": "Swap", "color": "#ffcc00"},
+      {"name": "Loans", "color": "#ff9999"},
+      {"name": "Investment", "color": "#8e44ad"}
+    ],
+    "DefaultCategories": [
+      {"name": "Groceries", "color": "#5cb85c"},
+      {"name": "Clothing", "color": "#f0ad4e"},
+      {"name": "Transportation", "color": "#5bc0de"},
+      {"name": "Eating Out", "color": "#d9534f"},
+      {"name": "Home", "color": "#428bca"},
+      {"name": "Other", "color": "#999999"},
+      {"name": "Swap", "color": "#ffcc00"},
+      {"name": "Loans", "color": "#ff9999"},
+      {"name": "Investment", "color": "#8e44ad"}
+    ]
+  }
+]

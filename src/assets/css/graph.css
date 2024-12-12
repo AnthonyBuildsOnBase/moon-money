@@ -1,0 +1,30 @@
+.graph-metrics-container {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.graph-section {
+  flex: 2;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.graph-section canvas {
+  max-width: 100%;
+  max-height: 400px;
+}
+
+.metrics {
+  flex: 1;
+  background-color: #e3f2fd;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

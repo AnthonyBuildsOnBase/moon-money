@@ -1,0 +1,212 @@
+[
+  {
+    "date": "2024-12-12",
+    "blockNumber": 23614355,
+    "shares": "0.467488500613671194",
+    "assets": "0.470025814858860973",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-11",
+    "blockNumber": 23586126,
+    "shares": "0.467488500613671194",
+    "assets": "0.47002199964790177",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-10",
+    "blockNumber": 23542926,
+    "shares": "0.467488500613671194",
+    "assets": "0.470014785412981757",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-09",
+    "blockNumber": 23499726,
+    "shares": "0.467488500613671194",
+    "assets": "0.470007866607248014",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-08",
+    "blockNumber": 23456526,
+    "shares": "0.467488500613671194",
+    "assets": "0.470000266555999337",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-07",
+    "blockNumber": 23413326,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-06",
+    "blockNumber": 23370126,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-05",
+    "blockNumber": 23326926,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-04",
+    "blockNumber": 23283726,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-03",
+    "blockNumber": 23240526,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-02",
+    "blockNumber": 23197326,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-12-01",
+    "blockNumber": 23154126,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-30",
+    "blockNumber": 23110926,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-29",
+    "blockNumber": 23067726,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-28",
+    "blockNumber": 23024526,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-27",
+    "blockNumber": 22981326,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-26",
+    "blockNumber": 22938126,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-25",
+    "blockNumber": 22894926,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-24",
+    "blockNumber": 22851726,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-23",
+    "blockNumber": 22808526,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-22",
+    "blockNumber": 22765326,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-21",
+    "blockNumber": 22722126,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-20",
+    "blockNumber": 22678926,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-19",
+    "blockNumber": 22635726,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-18",
+    "blockNumber": 22592526,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-17",
+    "blockNumber": 22549326,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-16",
+    "blockNumber": 22506126,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-15",
+    "blockNumber": 22462926,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-14",
+    "blockNumber": 22419726,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  },
+  {
+    "date": "2024-11-13",
+    "blockNumber": 22376526,
+    "shares": "0.0",
+    "assets": "0.0",
+    "usdValue": "0.00"
+  }
+]

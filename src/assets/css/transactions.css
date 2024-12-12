@@ -1,0 +1,113 @@
+.transactions {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.transactions ul {
+  list-style: none;
+  padding: 10px 0;
+}
+
+.scrollable-transactions {
+  max-height: 300px; /* Define the height for the scrollable area */
+  overflow-y: scroll; /* Enable vertical scrolling */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+/* Optional: Style the scrollbar (for webkit browsers) */
+.scrollable-transactions::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scrollable-transactions::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 5px;
+}
+
+.scrollable-transactions::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+#transaction-list {
+  list-style: none;
+  padding: 0;
+}
+
+#transaction-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  font-size: 14px;
+}
+
+#transaction-list li:last-child {
+  border-bottom: none;
+}
+
+/* Transactions Filter Container */
+.transactions-filter {
+    position: relative;
+    display: inline-block;
+    float: right; /* Aligns the filter button to the right */
+    margin-top: -40px; /* Moves the button up by 10px */
+}
+
+/* Filter Button with Icon */
+#transaction-filter-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#transaction-filter-btn img {
+    width: 24px;
+    height: 24px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.transaction-dropdown {
+    display: none;
+    position: absolute;
+    right: 0; /* Align dropdown to the right edge of the button */
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    min-width: 150px;
+    z-index: 1;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for Each Checkbox Label */
+.transaction-dropdown label {
+    display: block;
+    padding: 5px 0;
+    cursor: pointer;
+}
+
+/* Show Dropdown When Active */
+.transaction-dropdown.show {
+    display: block;
+}
+
+/* Transaction List Styling */
+#transaction-list {
+    list-style: none;
+    padding: 0;
+}
+
+#transaction-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+}
+
+#transaction-list li:last-child {
+    border-bottom: none;
+}
