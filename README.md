@@ -1,6 +1,16 @@
 Moonwell Yield Tracker
 
-TDLR: Tracking yield for supplied assets on Moonwell is hard(not rewards). We propose a web interface to see yield changes over time.
+TDLR: tracking your all your transactions and moonwell positions can be hard
+
+
+
+
+![Screenshot 2024-12-12 at 6 54 59 PM](https://github.com/user-attachments/assets/88647847-37ff-4f86-8773-4281ff6183f5)
+
+
+
+
+
 
 
 
